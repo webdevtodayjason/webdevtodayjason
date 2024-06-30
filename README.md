@@ -2,8 +2,8 @@
 
 Prolific cybersecurity expert, skilled developer, and innovative AI enthusiast.
 
-[![Website](https://img.shields.io/badge/Website-Titanium-Computing-blue)](https://titaniumcomputing.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Titanium-Computing-red)](https://youtube.com/@titaniumcomputing)
+[![Website](https://img.shields.io/badge/Website-YourWebsite-blue)](https://titaniumcomputing.com)
+[![YouTube](https://img.shields.io/badge/YouTube-ChannelName-red)](https://youtube.com/@titaniumcomputing)
 [![Twitter](https://img.shields.io/badge/Twitter-JasonBrashearTX-blue)](https://x.com/JasonBrashearTX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jasonbrashear-blue)](https://www.linkedin.com/in/jasonbrashear/)
 [![Email](https://img.shields.io/badge/Email-Jason-red)](mailto:jason@titaniumcomputing.com)
