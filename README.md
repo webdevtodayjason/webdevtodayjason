@@ -1,12 +1,12 @@
-# JASON Brashear
+# Jason Brashear
 
 Prolific cybersecurity expert, skilled developer, and innovative AI enthusiast.
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite-blue)](https://titaniumcomputing.com)
-[![YouTube](https://img.shields.io/badge/YouTube-ChannelName-red)](https://youtube.com/@titaniumcomputing)
-[![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](https://x.com/JasonBrashearTX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jasonbrashear/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:jason@titaniumcomputing.com)
+[![Website](https://img.shields.io/badge/Website-Titanium-Computing-blue)](https://titaniumcomputing.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Titanium-Computing-red)](https://youtube.com/@titaniumcomputing)
+[![Twitter](https://img.shields.io/badge/Twitter-JasonBrashearTX-blue)](https://x.com/JasonBrashearTX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jasonbrashear-blue)](https://www.linkedin.com/in/jasonbrashear/)
+[![Email](https://img.shields.io/badge/Email-Jason-red)](mailto:jason@titaniumcomputing.com)
 
 ## 💻 Cybersecurity Expert
 I develop cutting-edge cybersecurity tools and solutions, specializing in Python, PHP, and AI-driven applications.
@@ -30,5 +30,5 @@ Always exploring the latest in AI, machine learning, and cybersecurity to stay a
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-orange)](https://buymeacoffee.com/yourlink)
 
 ## 📫 Get in Touch
-- **Email**: [youremail@example.com](mailto:jason@titaniumcomputing.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jasonbrashear/)
+- **Email**: [jason@titaniumcomputing.com](mailto:jason@titaniumcomputing.com)
+- **LinkedIn**: [jasonbrashear](https://www.linkedin.com/in/jasonbrashear/)
