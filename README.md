@@ -4,7 +4,7 @@ Director of AI Development & Cybersecurity at Titanium Computing (Austin, TX).
 I design and deploy AI-centric systems, LLM workflows, and secure automation for real-world infrastructure.
 
 [![Website](https://img.shields.io/badge/Website-Titanium%20Computing-blue)](https://titaniumcomputing.com)
-[![Jason Brochure](https://img.shields.io/badge/Brochure-jasonbrochure.com-black)](https://jasonbrochure.com)
+[![Jason Brashear](https://img.shields.io/badge/personal-jasonbrashear.com-black)](https://jasonbrashear.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@titaniumcomputing-red)](https://youtube.com/@titaniumcomputing)
 [![Twitter](https://img.shields.io/badge/Twitter-JasonBrashearTX-blue)](https://x.com/JasonBrashearTX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jasonbrashear-blue)](https://www.linkedin.com/in/jasonbrashear/)
