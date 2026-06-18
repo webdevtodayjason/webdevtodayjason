@@ -54,15 +54,13 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 
 🎮 **[Downtime Arena](https://downtimearena.com)** — Cybersecurity-themed browser arcade: defend the world's cloud providers from live, coordinated cyberattacks across a global threat map.
 
-🤖 **[Omnigent](https://github.com/webdevtodayjason/omnigent)** — A meta-harness for all your AI agents: one common layer over Claude Code, Codex, and friends.
-
 🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 199 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 142 ⭐** (scaffolds context-engineering docs for AI projects).
 
 ## 🌍 Open Source — Contributions
 
 Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ repositories**, including:
 
-🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** · ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · 🖥️ **[supacode](https://github.com/supabitapp/supacode)** · 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)**
+🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) — open-source AI agent framework · **3.7k ⭐** · 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** · ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · 🖥️ **[supacode](https://github.com/supabitapp/supacode)** · 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)**
 
 ## 🛠️ Stack
 
@@ -74,10 +72,10 @@ LLM orchestration · agent runtimes · MCP · Claude Code · open agent-web stan
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=webdevtodayjason&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=webdevtodayjason&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevtodayjason&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=webdevtodayjason&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=webdevtodayjason&theme=tokyonight&hide_border=true" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdevtodayjason&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
