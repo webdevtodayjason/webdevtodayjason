@@ -2,16 +2,16 @@
 
 # Hi, I'm Jason Brashear 👋
 
-<a href="https://github.com/openclaw/openclaw">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Director+of+AI+Development+%26+Cybersecurity;OpenClaw+maintainer+%26+Microsoft+liaison;Building+agentic+AI+systems+for+production;950%2B+merged+PRs+across+40%2B+repos" alt="What I do" />
+<a href="https://frontierinfra.org">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Director+of+AI+Development+%26+Cybersecurity;Building+open+standards+for+the+agent+web;Self-hosted%2C+self-improving+AI+systems;950%2B+merged+PRs+across+40%2B+repos" alt="What I do" />
 </a>
 
-Director of AI Development & Cybersecurity @ **Titanium Computing** · Founder @ **ArgentOS.ai** · Austin, TX
+Director of AI Development & Cybersecurity @ **Titanium Computing** · Founder @ **[ArgentOS.ai](https://argentos.ai)** · Austin, TX
 
 [![Website](https://img.shields.io/badge/jasonbrashear.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jasonbrashear.com)
-[![ArgentOS](https://img.shields.io/badge/ArgentOS.ai-1f6feb?style=for-the-badge&logo=ai&logoColor=white)](https://argentos.ai)
+[![Frontier Infra](https://img.shields.io/badge/Frontier_Infra-1f6feb?style=for-the-badge&logo=ai&logoColor=white)](https://frontierinfra.org)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@titaniumcomputing)
-[![X](https://img.shields.io/badge/@JasonBrashearTX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JasonBrashearTX)
+[![X](https://img.shields.io/badge/@argentAIOS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/argentAIOS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonbrashear/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=webdevtodayjason&color=58a6ff&style=flat-square&label=Profile+views)
@@ -22,46 +22,53 @@ Director of AI Development & Cybersecurity @ **Titanium Computing** · Founder @
 
 ## 🧠 What I Do
 
-I work at the intersection of **AI, security, and infrastructure** — building agentic systems that move past demos and run in production. Orchestration, applied LLM workflows, secure automation, and the developer tooling that makes all of it shippable.
+I work at the intersection of **AI, security, and infrastructure** — building agentic systems that move past demos and run in production, plus the **open standards and tooling** that keep the agent web honest and producer-owned.
 
-## 🚧 What I'm Working On
+## 🛰️ Frontier Infra — open standards for the agent web
 
-🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** — Open-source AI agent runtime and orchestration platform. I'm the **Microsoft maintainer and liaison**, focused on Teams and Microsoft-ecosystem integrations that make OpenClaw work in the real world.
+Open, portable, MIT-licensed standards that work without a central trust root — *declare · prove · behave.* → **[frontierinfra.org](https://frontierinfra.org)** · [github.com/frontier-infra](https://github.com/frontier-infra)
 
-🎓 **OpenClaw Dev Days** — Reusable workshop kit for teaching OpenClaw without turning setup into install chaos. Built around fast first wins, facilitator runbooks, setup guides, and reusable labs.
+- 👁️ **[Agent View Layer (AVL)](https://agentviewlayer.org)** · [`frontier-infra/avl`](https://github.com/frontier-infra/avl) — producer-owned `text/agent-view` companions so AI agents read your site's intent, state, and actions without scraping pixels. Spec + live validator.
+- 🔏 **[Agent Control Plane (AAR)](https://agentscontrolplane.org)** · [`frontier-infra/agentcontrolplane`](https://github.com/frontier-infra/agentcontrolplane) — the Agent Attestation Record: an Ed25519-signed, portable record of what an agent *claimed* vs. what an independent verifier *found* — checkable with a public key, no central server.
+- 🛡️ **[Agent Discipline Layer (ADL)](https://github.com/frontier-infra/adl)** — keep a coding agent honest: role overlays (Forge / Quill / Scout / Warden) + verifiable `/goal` contracts with sign-off.
 
-🖊️ **dm-annotate** — Native, local-only macOS screen-annotation tool for demos, classes, design reviews, and screen shares.
+## 🚀 What I'm Building
 
-🎬 **dm-lessonmeld** — Native, local-first macOS recording suite for curriculum builders. Record, review, render, and package lessons into local project bundles.
+🧠 **[ArgentOS](https://argentos.ai)** · [`ArgentAIOS/argentos-core`](https://github.com/ArgentAIOS/argentos-core) **· 111 ⭐** — Your own AI operating system. Self-hosted, self-improving: one continuous, truthful, self-correcting agent layer.
 
-📋 **Veritas Kanban** — Lightweight project orchestration built for the agentic-AI era. **650+ ⭐, MIT-licensed.** Kanban meets AI task delegation — where your board actually knows what's happening.
+🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) **· 12 ⭐** — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
 
-🧠 **BrainMeld** — Knowledge-fusion platform turning scattered notes, conversations, and research into a connected knowledge graph. Coming soon under Digital Meld.
+🧙 **[TechMages](https://techmages.org)** — White-hat cybersecurity tooling: **[Warlock OS](https://github.com/techmages-org/warlock)** (build-your-own Raspberry Pi CM5 field cyberdeck), **[warlock-buddy](https://github.com/techmages-org/warlock-buddy)** (M5Stack command surface), and **[wisp](https://github.com/techmages-org/wisp)** (pocket Wi-Fi finder).
 
-💼 **DealMeld** — Digital sales room and CRM, streamlining the deal lifecycle from first touch to close.
+📞 **[AMP Cortex](https://ampcortex.ai)** — AI-first cloud PBX where AI voice agents are first-class phone extensions — numbers, queues, transfers, voicemail. Built for MSPs, HIPAA-compliant.
 
-🌐 **[sstb.ai](https://sstb.ai)** — Live community and learning platform extending *Start Small, Think Big* into courses, memberships, and practical AI education.
+🎯 **[CallScrub](https://callscrub.io)** — AI sales-call analysis: real-time transcription, sentiment, and coaching scores on every call.
 
-🎙️ **Start Small, Think Big** — A podcast about building things that matter, from the messy middle of actually doing it.
+✅ **[AEOCheck](https://aeocheck.ai)** — Free AI-readiness analyzer: how well does your site answer to ChatGPT, Claude, and other answer engines?
 
-## 🌍 Open Source — Active & Involved
+⚖️ **[EviTrace](https://evitrace.io)** — Local-first, case-isolated evidence platform for legal matters — no network, no telemetry, by Titanium Computing.
 
-Maintainer and contributor across the agentic-AI and developer-tooling ecosystem — **950+ merged PRs across 40+ repositories.**
+🧮 **[VRAMBudget](https://vrambudget.com)** · [`vrambudget`](https://github.com/webdevtodayjason/vrambudget) — *What LLM fits my hardware?* VRAM math across 40+ GPUs and 20+ models.
 
-- 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** — Microsoft maintainer & liaison
-- ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · 🖥️ **[supacode](https://github.com/supabitapp/supacode)** · 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)**
+🛰️ **[subctl](https://subctl.com)** · [`subctl`](https://github.com/webdevtodayjason/subctl) — Subscription Central: a multi-account, rate-limit-aware CLI/TUI/dashboard for the AI subscriptions you're paying for.
 
-And tools I build and maintain:
+🎮 **[Downtime Arena](https://downtimearena.com)** — Cybersecurity-themed browser arcade: defend the world's cloud providers from live, coordinated cyberattacks across a global threat map.
 
-- 🤖 **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** — Claude Code sub-agent manager · **199 ⭐**
-- 🏗️ **[context-forge](https://github.com/webdevtodayjason/context-forge)** — scaffolds context-engineering docs for AI projects · **142 ⭐**
-- 🛰️ **[subctl](https://github.com/webdevtodayjason/subctl)** — multi-account AI-subscription orchestrator (CLI/TUI/dashboard)
+🤖 **[Omnigent](https://github.com/webdevtodayjason/omnigent)** — A meta-harness for all your AI agents: one common layer over Claude Code, Codex, and friends.
+
+🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 199 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 142 ⭐** (scaffolds context-engineering docs for AI projects).
+
+## 🌍 Open Source — Contributions
+
+Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ repositories**, including:
+
+🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** · ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · 🖥️ **[supacode](https://github.com/supabitapp/supacode)** · 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)**
 
 ## 🛠️ Stack
 
-![](https://skillicons.dev/icons?i=ts,swift,py,react,nextjs,nodejs,tailwind,prisma,postgres,docker,gcp,linux,git)
+![](https://skillicons.dev/icons?i=ts,py,swift,react,nextjs,nodejs,fastapi,tailwind,prisma,postgres,docker,gcp,linux,git)
 
-LLM orchestration · agent runtimes · MCP · Claude Code · Turborepo · pnpm
+LLM orchestration · agent runtimes · MCP · Claude Code · open agent-web standards · self-hosted infra
 
 ## 📊 GitHub
 
@@ -76,15 +83,11 @@ LLM orchestration · agent runtimes · MCP · Claude Code · Turborepo · pnpm
 
 </div>
 
-## 🎙️ Beyond Code
-
-Host of **Start Small, Think Big** — and building [sstb.ai](https://sstb.ai), a community for people learning to ship real AI products. Less hype, more *actually doing it*.
-
 ## 📫 Connect
 
-- 🌐 [jasonbrashear.com](https://jasonbrashear.com) · [argentos.ai](https://argentos.ai)
+- 🌐 [jasonbrashear.com](https://jasonbrashear.com) · [argentos.ai](https://argentos.ai) · [frontierinfra.org](https://frontierinfra.org)
 - 💼 [linkedin.com/in/jasonbrashear](https://www.linkedin.com/in/jasonbrashear/)
-- 🐦 [@JasonBrashearTX](https://x.com/JasonBrashearTX)
-- ✉️ jason@argentos.ai
+- 🐦 [@argentAIOS](https://x.com/argentAIOS)
+- ✉️ jason@titaniumcomputing.com
 
 <div align="center"><sub>AI is a force multiplier, not a replacement for thinking. Systems over languages, outcomes over tools.</sub></div>
