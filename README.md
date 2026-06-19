@@ -60,12 +60,12 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 
 Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ repositories**, including:
 
-- 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** · **379k ⭐** — AI agent runtime & orchestration platform
-- ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · **62k ⭐** — the intelligent terminal
-- 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** · **43k ⭐** — turn any CLI into an agent tool
+- 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** ([openclaw.ai](https://openclaw.ai)) · **379k ⭐** — AI agent runtime & orchestration platform
+- ⌨️ **[Warp](https://github.com/warpdotdev/warp)** ([warp.dev](https://warp.dev)) · **62k ⭐** — the intelligent terminal
+- 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ([clianything.cc](https://clianything.cc)) · **43k ⭐** — turn any CLI into an agent tool
 - 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **4.0k ⭐** — open-source AI agent framework
 - 🖥️ **[supacode](https://github.com/supabitapp/supacode)** ([supacode.sh](https://supacode.sh)) · **1.4k ⭐** — command center for parallel coding agents
-- 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · **128 ⭐** — MCP server for Dart project management
+- 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** ([dartai.com](https://dartai.com)) · **128 ⭐** — MCP server for Dart project management
 
 ## 🛠️ Stack
 
