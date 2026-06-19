@@ -54,13 +54,18 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 
 🎮 **[Downtime Arena](https://downtimearena.com)** — Cybersecurity-themed browser arcade: defend the world's cloud providers from live, coordinated cyberattacks across a global threat map.
 
-🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 199 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 142 ⭐** (scaffolds context-engineering docs for AI projects).
+🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 200 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 143 ⭐** (scaffolds context-engineering docs for AI projects).
 
 ## 🌍 Open Source — Contributions
 
 Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ repositories**, including:
 
-🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) — open-source AI agent framework · **3.7k ⭐** · 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** · ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · 🖥️ **[supacode](https://github.com/supabitapp/supacode)** · 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)**
+- 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** · **379k ⭐** — AI agent runtime & orchestration platform
+- ⌨️ **[Warp](https://github.com/warpdotdev/warp)** · **62k ⭐** — the intelligent terminal
+- 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** · **43k ⭐** — turn any CLI into an agent tool
+- 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **4.0k ⭐** — open-source AI agent framework
+- 🖥️ **[supacode](https://github.com/supabitapp/supacode)** ([supacode.sh](https://supacode.sh)) · **1.4k ⭐** — command center for parallel coding agents
+- 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** · **128 ⭐** — MCP server for Dart project management
 
 ## 🛠️ Stack
 
