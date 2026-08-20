@@ -34,13 +34,25 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 
 ## 🚀 What I'm Building
 
-🧠 **[ArgentOS](https://argentos.ai)** · [`ArgentAIOS/argentos-core`](https://github.com/ArgentAIOS/argentos-core) **· 111 ⭐** — Your own AI operating system. Self-hosted, self-improving: one continuous, truthful, self-correcting agent layer.
+🧠 **[ArgentOS](https://argentos.ai)** · [`ArgentAIOS/argentos-core`](https://github.com/ArgentAIOS/argentos-core) **· 120 ⭐** — Your own AI operating system. Self-hosted, self-improving: one continuous, truthful, self-correcting agent layer.
 
-🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) **· 12 ⭐** — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
+🪑 **[Roundtable](https://roundtable.sh)** · [`frontier-infra/roundtable`](https://github.com/frontier-infra/roundtable) - Frontier Infra CLI that convenes frontier models (Grok, Codex/OpenAI, GLM, MiniMax, Claude, Gemini) in parallel and optionally deliberates to consensus.
+
+🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) **· 14 ⭐** — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
 
 🧙 **[TechMages](https://techmages.org)** — White-hat cybersecurity tooling: **[Warlock OS](https://github.com/techmages-org/warlock)** (build-your-own Raspberry Pi CM5 field cyberdeck), **[warlock-buddy](https://github.com/techmages-org/warlock-buddy)** (M5Stack command surface), and **[wisp](https://github.com/techmages-org/wisp)** (pocket Wi-Fi finder).
 
 📞 **[AMP Cortex](https://ampcortex.ai)** — AI-first cloud PBX where AI voice agents are first-class phone extensions — numbers, queues, transfers, voicemail. Built for MSPs, HIPAA-compliant.
+
+🔄 **[ClientSync](https://clientsync.dev)** · [`clientsync2.0`](https://github.com/webdevtodayjason/clientsync2.0) - All-in-one MSP operations platform: AI-powered ops, client portal, and compliance tooling. Built to replace Atera.
+
+📧 **[Anvil Mail](https://anvilmail.io)** - DMARC and email-security ops for MSPs. One console for every client domain, from monitoring to p=reject.
+
+⚓ **[Keelpin](https://keelpin.io)** - Continuous AppSec with exploit-validated findings. Scanners propose, agents prove it against the live app.
+
+📚 **[Shelvie](https://shelvie.io)** - AI-assisted monthly close for bookkeeping firms. Import, review, ask, and close without the scavenger hunt.
+
+🎨 **[Pagiie](https://pagiie.io)** - Local-first visual website studio you can talk to. Static sites, your Git history, no CMS stack.
 
 🎯 **[CallScrub](https://callscrub.io)** — AI sales-call analysis: real-time transcription, sentiment, and coaching scores on every call.
 
@@ -54,13 +66,16 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 
 🎮 **[Downtime Arena](https://downtimearena.com)** — Cybersecurity-themed browser arcade: defend the world's cloud providers from live, coordinated cyberattacks across a global threat map.
 
-🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 200 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 143 ⭐** (scaffolds context-engineering docs for AI projects).
+🎭 **[hermes-embodiment](https://github.com/webdevtodayjason/hermes-embodiment)** **· 7 ⭐** - Hermes plugin: animated face, live RGB presence, and mood driven by the agent's real state.
+
+🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 202 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 148 ⭐** (scaffolds context-engineering docs for AI projects).
 
 ## 🌍 Open Source — Contributions
 
 Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ repositories**, including:
 
 - 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** ([openclaw.ai](https://openclaw.ai)) · **379k ⭐** — AI agent runtime & orchestration platform
+- 🪽 **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** ([hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)) · **233k ⭐** - open-source AI agent that grows with you
 - ⌨️ **[Warp](https://github.com/warpdotdev/warp)** ([warp.dev](https://warp.dev)) · **62k ⭐** — the intelligent terminal
 - 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ([clianything.cc](https://clianything.cc)) · **43k ⭐** — turn any CLI into an agent tool
 - 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **4.0k ⭐** — open-source AI agent framework
