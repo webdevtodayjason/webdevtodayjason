@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Director+of+AI+Development+%26+Cybersecurity;Building+open+standards+for+the+agent+web;Self-hosted%2C+self-improving+AI+systems;950%2B+merged+PRs+across+40%2B+repos" alt="What I do" />
 </a>
 
-Director of AI Development & Cybersecurity @ **Titanium Computing** · Founder @ **[ArgentOS.ai](https://argentos.ai)** · Austin, TX
+Director of AI Development & Cybersecurity @ **Titanium Computing** · Founder @ **[Titanium.bot](https://titanium.bot)** · Austin, TX
 
 [![Website](https://img.shields.io/badge/jasonbrashear.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jasonbrashear.com)
 [![Frontier Infra](https://img.shields.io/badge/Frontier_Infra-1f6feb?style=for-the-badge&logo=ai&logoColor=white)](https://frontierinfra.org)
