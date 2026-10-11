@@ -85,7 +85,7 @@ Open, portable, MIT-licensed standards that work without a central trust root. *
 - 🐋 **[Orca](https://github.com/stablyai/orca)** ([onorca.dev](https://onorca.dev)) · **89.4k ⭐** - ADE for running a fleet of parallel coding agents. 1 PR.
 - ⌨️ **[Warp](https://github.com/warpdotdev/warp)** ([warp.dev](https://warp.dev)) · **65.4k ⭐** - agentic development environment. 2 merged.
 - 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ([clianything.cc](https://clianything.cc)) · **51.9k ⭐** - turn any CLI into an agent tool. 1 PR: the TinyFish CLI.
-- 🐝 **[Buzz](https://github.com/block/buzz)** · **35.8k ⭐** - Block's hive-mind communication platform for humans and agents. 6 PRs submitted and 5 bug reports on relay, deploy and ACP.
+- 🐝 **[Buzz](https://github.com/block/buzz)** · **35.8k ⭐** - Block's hive-mind communication platform for humans and agents. Shared production findings on the remote-agents spec ([#3748](https://github.com/block/buzz/pull/3748), merged), plus 6 PRs and 5 bug reports on relay, deploy and ACP.
 - 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **10.7k ⭐** - open-source AI agent framework. 5 PRs.
 - 🎨 **[VectorCraft](https://github.com/storytold/vectorcraft)** ([getartcraft.com](https://getartcraft.com/apps/vectorcraft)) · **6.5k ⭐** - ArtCraft's open-source, clean-room Illustrator in Rust. Merged [#1091](https://github.com/storytold/vectorcraft/pull/1091); contributor #36.
 - 🖥️ **[supacode](https://github.com/supabitapp/supacode)** ([supacode.sh](https://supacode.sh)) · **2.4k ⭐** - command center for parallel coding agents. 3 PRs.
