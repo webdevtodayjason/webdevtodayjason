@@ -78,9 +78,18 @@ Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ reposito
 - 🪽 **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** ([hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)) · **244k ⭐** — open-source AI agent that grows with you
 - ⌨️ **[Warp](https://github.com/warpdotdev/warp)** ([warp.dev](https://warp.dev)) · **64.9k ⭐** — the intelligent terminal
 - 🐋 **[Orca](https://github.com/stablyai/orca)** ([onorca.dev](https://onorca.dev)) · **64.7k ⭐** — ADE for running a fleet of parallel coding agents
+- 🖼️ **[PhotoCraft](https://github.com/storytold/photocraft)** ([getartcraft.com/apps/photocraft](https://getartcraft.com/apps/photocraft)) · **55.7k ⭐** — open-source photo editor written from scratch in pure Rust
 - 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ([clianything.cc](https://clianything.cc)) · **49.2k ⭐** — turn any CLI into an agent tool
 - 🐝 **[Buzz](https://github.com/block/buzz)** · **32.4k ⭐** — Block's hive-mind communication platform for humans and agents
+- 📄 **[PdfCraft](https://github.com/storytold/pdfcraft)** ([getartcraft.com/apps/printcraft](https://getartcraft.com/apps/printcraft)) · **12.1k ⭐** — open-source PDF reader and editor in pure Rust
+- 🎬 **[FilmCraft](https://github.com/storytold/filmcraft)** ([getartcraft.com/apps/filmcraft](https://getartcraft.com/apps/filmcraft)) · **12.0k ⭐** — open-source nonlinear video editor in pure Rust
 - 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **9.8k ⭐** — open-source AI agent framework
+- ✒️ **[VectorCraft](https://github.com/storytold/vectorcraft)** ([getartcraft.com/apps/vectorcraft](https://getartcraft.com/apps/vectorcraft)) · **8.2k ⭐** — open-source vector art tool in pure Rust
+- ✨ **[EffectCraft](https://github.com/storytold/effectcraft)** ([getartcraft.com/apps/effectcraft](https://getartcraft.com/apps/effectcraft)) · **6.0k ⭐** — open-source motion graphics and compositing in pure Rust
+- 📊 **[GridCraft](https://github.com/storytold/gridcraft)** ([getartcraft.com](https://getartcraft.com)) · **4.2k ⭐** — open-source clean-room spreadsheet in pure Rust
+- 📐 **[CADCraft](https://github.com/storytold/cadcraft)** ([getartcraft.com](https://getartcraft.com)) · **3.8k ⭐** — open-source clean-room CAD and drafting app in pure Rust
+- 📰 **[DesignCraft](https://github.com/storytold/designcraft)** ([getartcraft.com/apps/designcraft](https://getartcraft.com/apps/designcraft)) · **3.6k ⭐** — open-source page and layout design editor in pure Rust
+- 🎚️ **[SoundCraft](https://github.com/storytold/soundcraft)** ([getartcraft.com/apps/soundcraft](https://getartcraft.com/apps/soundcraft)) · **2.4k ⭐** — open-source clean-room digital audio workstation in pure Rust
 - 🖥️ **[supacode](https://github.com/supabitapp/supacode)** ([supacode.sh](https://supacode.sh)) · **2.3k ⭐** — command center for parallel coding agents
 - 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** ([dartai.com](https://dartai.com)) · **128 ⭐** — MCP server for Dart project management
 - 🧬 **[SIA](https://github.com/AnubisQuantumCipher/sia)** · **12 ⭐** — persistent, self-consolidating memory for the Linux desktop (the Omarchy Brain)
