@@ -32,13 +32,21 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 - 🔏 **[Agent Control Plane (AAR)](https://agentscontrolplane.org)** · [`frontier-infra/agentcontrolplane`](https://github.com/frontier-infra/agentcontrolplane) — the Agent Attestation Record: an Ed25519-signed, portable record of what an agent *claimed* vs. what an independent verifier *found* — checkable with a public key, no central server.
 - 🛡️ **[Agent Discipline Layer (ADL)](https://github.com/frontier-infra/adl)** — keep a coding agent honest: role overlays (Forge / Quill / Scout / Warden) + verifiable `/goal` contracts with sign-off.
 
+### 🧭 Jebadiah — open System One decision models
+
+Open-weight models that return a typed judgment (a choice, a yes/no, a score) instead of prose, so an agent can route, prioritize and act without parsing a paragraph. Trained on AINode, published under Frontier Infra. → **[jebadiah.ai](https://jebadiah.ai)**
+
+- 🧠 **[Jebadiah](https://github.com/getainode/jebadiah)** ([jebadiah.ai](https://jebadiah.ai)) · Apache-2.0 — trainer, data builders, evals and every run record; 4B, 9B and 27B weights in safetensors, GGUF and MLX on **[Hugging Face](https://huggingface.co/collections/frontier-infra/jebadiah-open-system-one-decision-models-6ab80765ddd3fa0b3eba5213)**
+- 📊 **[Decision Index](https://huggingface.co/spaces/multimodalart/jev-decision-index) 0.2.1: 54.67, #5 of 67 open models** (board-validated, 2026-09-26) · **JevBench: 0.866 on its 231 public items**, level with Jev 1.13.0 (our run, [details](https://github.com/getainode/jebadiah#where-we-stand-on-jevbench))
+- ⚖️ Two roles, one base: **Public Jeb** answers general questions; **Judge Jeb** is an adapter trained on the decisions one engine actually asks and the outcomes people approved
+
 ## 🚀 What I'm Building
 
-🧠 **[ArgentOS](https://argentos.ai)** · [`ArgentAIOS/argentos-core`](https://github.com/ArgentAIOS/argentos-core) **· 120 ⭐** — Your own AI operating system. Self-hosted, self-improving: one continuous, truthful, self-correcting agent layer.
+🧠 **[ArgentOS](https://argentos.ai)** · [`ArgentAIOS/argentos-core`](https://github.com/ArgentAIOS/argentos-core) **· 127 ⭐** — Your own AI operating system. Self-hosted, self-improving: one continuous, truthful, self-correcting agent layer.
 
 🪑 **[Roundtable](https://roundtable.sh)** · [`frontier-infra/roundtable`](https://github.com/frontier-infra/roundtable) - Frontier Infra CLI that convenes frontier models (Grok, Codex/OpenAI, GLM, MiniMax, Claude, Gemini) in parallel and optionally deliberates to consensus.
 
-🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) **· 14 ⭐** — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
+🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) **· 1 ⭐** — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
 
 🧙 **[TechMages](https://techmages.org)** — White-hat cybersecurity tooling: **[Warlock OS](https://github.com/techmages-org/warlock)** (build-your-own Raspberry Pi CM5 field cyberdeck), **[warlock-buddy](https://github.com/techmages-org/warlock-buddy)** (M5Stack command surface), and **[wisp](https://github.com/techmages-org/wisp)** (pocket Wi-Fi finder).
 
@@ -66,33 +74,33 @@ Open, portable, MIT-licensed standards that work without a central trust root �
 
 🎮 **[Downtime Arena](https://downtimearena.com)** — Cybersecurity-themed browser arcade: defend the world's cloud providers from live, coordinated cyberattacks across a global threat map.
 
-🎭 **[hermes-embodiment](https://github.com/webdevtodayjason/hermes-embodiment)** **· 7 ⭐** - Hermes plugin: animated face, live RGB presence, and mood driven by the agent's real state.
+🎭 **[hermes-embodiment](https://github.com/webdevtodayjason/hermes-embodiment)** **· 8 ⭐** - Hermes plugin: animated face, live RGB presence, and mood driven by the agent's real state.
 
-🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 202 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 148 ⭐** (scaffolds context-engineering docs for AI projects).
+🧰 **Claude Code tooling** — **[sub-agents](https://github.com/webdevtodayjason/sub-agents)** **· 200 ⭐** (sub-agent manager) and **[context-forge](https://github.com/webdevtodayjason/context-forge)** **· 148 ⭐** (scaffolds context-engineering docs for AI projects).
 
 ## 🌍 Open Source — Contributions
 
 Active across the agentic-AI ecosystem — **950+ merged PRs across 40+ repositories**, including:
 
-- 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** ([openclaw.ai](https://openclaw.ai)) · **389k ⭐** — AI agent runtime & orchestration platform
-- 🪽 **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** ([hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)) · **244k ⭐** — open-source AI agent that grows with you
-- ⌨️ **[Warp](https://github.com/warpdotdev/warp)** ([warp.dev](https://warp.dev)) · **64.9k ⭐** — the intelligent terminal
-- 🐋 **[Orca](https://github.com/stablyai/orca)** ([onorca.dev](https://onorca.dev)) · **64.7k ⭐** — ADE for running a fleet of parallel coding agents
-- 🖼️ **[PhotoCraft](https://github.com/storytold/photocraft)** ([getartcraft.com/apps/photocraft](https://getartcraft.com/apps/photocraft)) · **55.7k ⭐** — open-source photo editor written from scratch in pure Rust
-- 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ([clianything.cc](https://clianything.cc)) · **49.2k ⭐** — turn any CLI into an agent tool
-- 🐝 **[Buzz](https://github.com/block/buzz)** · **32.4k ⭐** — Block's hive-mind communication platform for humans and agents
+- 🦅 **[OpenClaw](https://github.com/openclaw/openclaw)** ([openclaw.ai](https://openclaw.ai)) · **392k ⭐** — AI agent runtime & orchestration platform
+- 🪽 **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** ([hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)) · **253k ⭐** — open-source AI agent that grows with you
+- ⌨️ **[Warp](https://github.com/warpdotdev/warp)** ([warp.dev](https://warp.dev)) · **65.4k ⭐** — the intelligent terminal
+- 🐋 **[Orca](https://github.com/stablyai/orca)** ([onorca.dev](https://onorca.dev)) · **91.2k ⭐** — ADE for running a fleet of parallel coding agents
+- 🖼️ **[PhotoCraft](https://github.com/storytold/photocraft)** ([getartcraft.com/apps/photocraft](https://getartcraft.com/apps/photocraft)) · **55.8k ⭐** — open-source photo editor written from scratch in pure Rust
+- 🧩 **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** ([clianything.cc](https://clianything.cc)) · **52.1k ⭐** — turn any CLI into an agent tool
+- 🐝 **[Buzz](https://github.com/block/buzz)** · **35.9k ⭐** — Block's hive-mind communication platform for humans and agents
 - 📄 **[PdfCraft](https://github.com/storytold/pdfcraft)** ([getartcraft.com/apps/printcraft](https://getartcraft.com/apps/printcraft)) · **12.1k ⭐** — open-source PDF reader and editor in pure Rust
-- 🎬 **[FilmCraft](https://github.com/storytold/filmcraft)** ([getartcraft.com/apps/filmcraft](https://getartcraft.com/apps/filmcraft)) · **12.0k ⭐** — open-source nonlinear video editor in pure Rust
-- 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **9.8k ⭐** — open-source AI agent framework
+- 🎬 **[FilmCraft](https://github.com/storytold/filmcraft)** ([getartcraft.com/apps/filmcraft](https://getartcraft.com/apps/filmcraft)) · **12k ⭐** — open-source nonlinear video editor in pure Rust
+- 🧠 **[Omnigent](https://github.com/omnigent-ai/omnigent)** ([omnigent.ai](https://omnigent.ai)) · **10.8k ⭐** — open-source AI agent framework
 - ✒️ **[VectorCraft](https://github.com/storytold/vectorcraft)** ([getartcraft.com/apps/vectorcraft](https://getartcraft.com/apps/vectorcraft)) · **8.2k ⭐** — open-source vector art tool in pure Rust
-- ✨ **[EffectCraft](https://github.com/storytold/effectcraft)** ([getartcraft.com/apps/effectcraft](https://getartcraft.com/apps/effectcraft)) · **6.0k ⭐** — open-source motion graphics and compositing in pure Rust
+- ✨ **[EffectCraft](https://github.com/storytold/effectcraft)** ([getartcraft.com/apps/effectcraft](https://getartcraft.com/apps/effectcraft)) · **6k ⭐** — open-source motion graphics and compositing in pure Rust
 - 📊 **[GridCraft](https://github.com/storytold/gridcraft)** ([getartcraft.com](https://getartcraft.com)) · **4.2k ⭐** — open-source clean-room spreadsheet in pure Rust
 - 📐 **[CADCraft](https://github.com/storytold/cadcraft)** ([getartcraft.com](https://getartcraft.com)) · **3.8k ⭐** — open-source clean-room CAD and drafting app in pure Rust
 - 📰 **[DesignCraft](https://github.com/storytold/designcraft)** ([getartcraft.com/apps/designcraft](https://getartcraft.com/apps/designcraft)) · **3.6k ⭐** — open-source page and layout design editor in pure Rust
 - 🎚️ **[SoundCraft](https://github.com/storytold/soundcraft)** ([getartcraft.com/apps/soundcraft](https://getartcraft.com/apps/soundcraft)) · **2.4k ⭐** — open-source clean-room digital audio workstation in pure Rust
-- 🖥️ **[supacode](https://github.com/supabitapp/supacode)** ([supacode.sh](https://supacode.sh)) · **2.3k ⭐** — command center for parallel coding agents
+- 🖥️ **[supacode](https://github.com/supabitapp/supacode)** ([supacode.sh](https://supacode.sh)) · **2.4k ⭐** — command center for parallel coding agents
 - 🎯 **[dart-mcp-server](https://github.com/its-dart/dart-mcp-server)** ([dartai.com](https://dartai.com)) · **128 ⭐** — MCP server for Dart project management
-- 🧬 **[SIA](https://github.com/AnubisQuantumCipher/sia)** · **12 ⭐** — persistent, self-consolidating memory for the Linux desktop (the Omarchy Brain)
+- 🧬 **[SIA](https://github.com/AnubisQuantumCipher/sia)** · **24 ⭐** — persistent, self-consolidating memory for the Linux desktop (the Omarchy Brain)
 
 ## 🛠️ Stack
 
