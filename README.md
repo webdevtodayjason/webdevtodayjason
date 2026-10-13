@@ -46,7 +46,7 @@ Open-weight models that return a typed judgment (a choice, a yes/no, a score) in
 
 🪑 **[Roundtable](https://roundtable.sh)** · [`frontier-infra/roundtable`](https://github.com/frontier-infra/roundtable) - Frontier Infra CLI that convenes frontier models (Grok, Codex/OpenAI, GLM, MiniMax, Claude, Gemini) in parallel and optionally deliberates to consensus.
 
-🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) **· 1 ⭐** — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
+🖥️ **[AINode](https://ainode.dev)** · [`getainode/ainode`](https://github.com/getainode/ainode) — Turn any NVIDIA GPU into a local AI platform: inference + fine-tuning in your browser, one command to start, automatic clustering.
 
 🧙 **[TechMages](https://techmages.org)** — White-hat cybersecurity tooling: **[Warlock OS](https://github.com/techmages-org/warlock)** (build-your-own Raspberry Pi CM5 field cyberdeck), **[warlock-buddy](https://github.com/techmages-org/warlock-buddy)** (M5Stack command surface), and **[wisp](https://github.com/techmages-org/wisp)** (pocket Wi-Fi finder).
 
